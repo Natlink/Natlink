@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Natlink
+- 👋 Hi, I’m @Natlink, French backend and game engineer.
 - 👀 I’m interested in distributed application developpement and game programming
-- 💞️ I’m looking to collaborate on game project
-- 📫 How to reach me natlink722@gmail.com
+- 🎮 Project architect at [ArenaReturns](https://github.com/ArenaReturns)
+- 📫 How to reach me [natlink722@gmail.com](mailto:natlink722@gmail.com)
